@@ -1,0 +1,3 @@
+Elnevezés: szia 
+Kiválasztott szak: Szoftverfejlesztő 
+Feliratkozott a hírlevélre? true
